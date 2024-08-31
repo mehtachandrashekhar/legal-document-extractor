@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: legal-document-extraction
+Version: 0.1.0
+Summary: An AI-based legal document extraction system
+Author: Your Name
+Author-email: your.email@example.com
+Requires-Python: >=3.7
+Requires-Dist: spacy==3.5.1
+Requires-Dist: Flask==2.3.2
+Requires-Dist: unittest2==1.1.0
+Requires-Dist: en_core_web_md@ https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.5.1/en_core_web_md-3.5.1-py3-none-any.whl
