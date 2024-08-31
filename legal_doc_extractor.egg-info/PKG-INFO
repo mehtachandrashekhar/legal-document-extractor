@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: legal_doc_extractor
+Version: 0.1
+Requires-Dist: flask
+Requires-Dist: spacy
+Requires-Dist: scikit-learn
